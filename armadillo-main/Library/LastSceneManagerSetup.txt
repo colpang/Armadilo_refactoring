@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Lobby Scene.unity
+- path: Assets/Scenes/06_GameScene Refactoring.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
